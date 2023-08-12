@@ -102,7 +102,7 @@
           <schemaVersion>V2</schemaVersion>
           <resourceGroup>todo-web-application-mysql</resourceGroup>
           <appName>todo-web-application-mysql-snehasish</appName>
-          <pricingTier>P1v2</pricingTier>
+          <pricingTier>B1</pricingTier>
           <region>westeurope</region>
           <runtime>
             <os>linux</os>
