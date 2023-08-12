@@ -100,8 +100,8 @@
         <version>1.7.0</version>  
         <configuration>
           <schemaVersion>V2</schemaVersion>
-          <resourceGroup>03-todo-web-application-mysql-1691781093131-rg</resourceGroup>
-          <appName>03-todo-web-application-mysql-1691781093131</appName>
+          <resourceGroup>todo-web-application-mysql</resourceGroup>
+          <appName>todo-web-application-mysql-snehasish</appName>
           <pricingTier>P1v2</pricingTier>
           <region>westeurope</region>
           <runtime>
